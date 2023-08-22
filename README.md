@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ucicek&label=Profile%20views&color=0e75b6&style=flat" alt="ucicek" /> </p>
 
-- 💼 Currently, I am Machine Learning Developer @ [XSENSOR](https://www.xsensor.com/)
 
-- 🌱 Currently, I am learning about **Pattern Recognition, and applications of AI in autonomous driving**
+- 🌱 Currently, I am learning about the use of variety of sensors and applications of AI in autonomous driving**
 
 - 📄 I am an undergraduate research assistant under Professor Paul Fieguth **working on Pose Estimation**
 
